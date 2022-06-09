@@ -13,7 +13,7 @@ https://karindanoli.github.io/ <<---- CV da Karin ⚡
 
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
-<a href="https://www.python.org" target="_blank"> <img src="images/python.svg" alt="python" width="50" height="50" title="Python"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="images/python3.svg" alt="python" width="50" height="50" title="Python"/> </a>
 &nbsp;
 <a href="" target="_blank"> <img src="images/java.svg" alt="java" width="50" height="50" title="java"/></a> 
 &nbsp;
